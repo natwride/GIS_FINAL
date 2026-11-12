@@ -32,7 +32,8 @@ This study assesses the collection and growth parameters of scallop species in f
 
 ## Site Map
 
-![Figure 1.](../images/ThesisPosterMap.jpg)
+![Figure 1. The red points mark the four sample sites across St. Thomas, USVI. The yellow star indicates the position of St. Thomas within the Caribbean region. ](../images/ThesisPosterMap.jpg)
+
 :::
 
 # Methods
@@ -47,12 +48,14 @@ This study assesses the collection and growth parameters of scallop species in f
 
 
 
+# Bio- About the Researcher
 
-```{r}
-#| label: fig-map
-#| fig-cap: "Figure 1. Thesis poster map"
-#| echo: false
+## Natalie Wride
 
-knitr::include_graphics(here::here("images", "ThesisPosterMap.jpg"))
-```
+Natalie is a second year Master Student working on her Masters of Science at the University of the Virgin Islands (UVI). She is currently a graduate teaching assistant at UVI and a marine vessel intern for Verimode LLC.. 
 
+Natalie received her Bachelors of Science at Brigham Young University (BYU) with a major in biology and minors in environmental science and world dance. During her time at BYU she was able to participate in student research opportunities studying coral reefs in Moloka'i Hawaii and fish aquaponics in Ghana. 
+
+Natalie spent 2 years working at The Ohio State University's Stone Laboratory on Lake Erie as a biological field station assistant. Natalie assisted with freshwater research on fish, reptiles/amphibians, invertebrates, and water quality. She also was able to participate in outreach and teaching opportunities to all ages. 
+
+Natalie currently is enjoying her time living on St. Thomas, USVI, and excited to see what is next for her.
