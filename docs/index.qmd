@@ -30,3 +30,5 @@ This study assesses the collection and growth parameters of scallop species in f
 knitr::include_graphics(here::here("images", "ThesisPosterMap.jpg"))
 ```
 
+## References
+include a bibilography of referneces used in document
